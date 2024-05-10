@@ -5,3 +5,7 @@
 ``` powershell
 Select-AzSubscription -SubscriptionId $subscriptionId
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
